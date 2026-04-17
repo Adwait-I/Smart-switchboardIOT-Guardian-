@@ -1,7 +1,9 @@
 # 🔌 Smart Switchboard Guardian++
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmw5cjQ1Y3ZyZHczOXo4cWV2OWIxeXZwMzBzMWtyaGwycnZpNmR4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S93WQ0wrqd8AupBTuh/giphy.gif" width="400">
+</p>
 
-[Project GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmw5cjQ1Y3ZyZHczOXo4cWV2OWIxeXZwMzBzMWtyaGwycnZpNmR4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S93WQ0wrqd8AupBTuh/giphy.gif)
 An IoT-based intelligent electrical switchboard designed to enhance safety and energy awareness using real-time monitoring and automated control.
 
 ---
