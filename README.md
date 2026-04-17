@@ -30,20 +30,20 @@ Smart Switchboard Guardian++ transforms a traditional switchboard into a smart, 
      +--------+----------+
               |
               |
-     +--------v----------+
-     |     ESP32         |
-     |  (Controller)     |
-     +---+-----+----+----+
-         |     |    |
-         |     |    |
-  +------v+  +-v-+  v
-  | Relay |  |LED| OLED
-  +---+---+  +---+ Display
-      |
-      |
-  AC Power Supply
-      |
-     Load
+     +-------------------+
+     |      ESP32        |
+     |   (Controller)    |
+     +----+----+----+----+
+          |    |    |
+          |    |    |
+    +-----v+  +-v-+  +--------+
+    | Relay |  |LED|  |  OLED  |
+    +---+---+  +---+  +--------+
+        |
+        |
+    AC Power Supply
+        |
+       Load
 
 ---
 
