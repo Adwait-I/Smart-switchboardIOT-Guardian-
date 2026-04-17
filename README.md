@@ -74,14 +74,9 @@ Otherwise:
 - System remains active and safe  
 
 ---
-
-![Demo](assets/IMG_3762%20(1).gif)
-
----
-
 ## 🎬 Project Preview
 
-![Project GIF](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
+![Demo](assets/IMG_3762%20(1).gif)
 
 ---
 
