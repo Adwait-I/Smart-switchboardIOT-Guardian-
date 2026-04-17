@@ -101,21 +101,22 @@ arduino-cli lib install "DallasTemperature"
 arduino-cli lib install "Adafruit GFX Library"
 arduino-cli lib install "Adafruit SSD1306"
 
+---
 
 ## 🌟 Novelty
 	•	Combines multiple safety mechanisms into one system
 	•	Works offline (no internet dependency)
 	•	Low-cost and easy to implement
 	•	Modular and scalable design
-  ____
+---
 
  ## 📈 Future Enhancements
 	•	Mobile app notifications
 	•	Energy consumption tracking
 	•	Voice control integration
 	•	Smart home ecosystem integration
+---
 
-⸻
 ## 📜 License
 
 This project is open-source and available under the MIT License.
