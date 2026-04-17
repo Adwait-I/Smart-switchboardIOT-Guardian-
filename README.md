@@ -77,7 +77,7 @@ Otherwise:
 
 ## 🎥 Demo
 
-![Demo Video](IMG_3762.MOV)
+![Demo Video](IMG_3762(1).gif)
 
 ---
 
