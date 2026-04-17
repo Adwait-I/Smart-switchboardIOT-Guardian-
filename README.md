@@ -36,7 +36,7 @@ Smart Switchboard Guardian++ transforms a traditional switchboard into a smart, 
      +----+----+----+----+
           |    |    |
           |    |    |
-    +-----v+  +-v-+  +--------+
+    +-----+  +---+  +--------+
     | Relay |  |LED|  |  OLED  |
     +---+---+  +---+  +--------+
         |
