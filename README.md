@@ -115,7 +115,9 @@ arduino-cli lib install "Adafruit SSD1306"
 	•	Energy consumption tracking
 	•	Voice control integration
 	•	Smart home ecosystem integration
+
 ---
+
 
 ## 📜 License
 
